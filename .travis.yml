@@ -8,3 +8,5 @@ env:
     - secure: aMcFhneV8563uDQ+lh13foeI0OBJQE53htdbXkcq9AnNjK8u5EoK+MgU248Hcw7ohcoxw35CJ2rsWhNWcJ0hJtg6+PuTbjb8xOg/3pMza9/8VGpyhM0QGXNMV5b85HdzqNJXaTXr+pKsrZQDNbtCHGNaxVVGPlno551KRqu8X+U=
   email: false
 before_script: npm install -g karma-cli
+
+
