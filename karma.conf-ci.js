@@ -74,4 +74,6 @@ module.exports = function(config) {
     browsers: Object.keys(customLaunchers),
     singleRun: true
   });
+
+  
 };
